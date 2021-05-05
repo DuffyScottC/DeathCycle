@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Scott/Documents/Programming/Java/Minecraft/Servers/spigot_1/spigot-1.16.5.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

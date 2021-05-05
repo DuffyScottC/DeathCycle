@@ -1,0 +1,12 @@
+name: DeathCycle
+version: 1.0
+api-version: 1.16
+author: Braekpo1nt
+main: me.braekpo1nt.deathcycle.Main
+description: swaps friend and your location evry 5 min, kill each other no pvp
+
+commands:
+    deathcycle:
+        description: /deathcycle <player1> <player2> [<player3>...<playerN>] to start game with 2 or more players
+    enddeathcycle:
+        description: /enddeathcycle ends Death Cycle game
